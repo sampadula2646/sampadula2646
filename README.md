@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sampadula2646
 - 👀 I’m interested in protein design.
-- 🌱 I’m currently learning deep learning.
+- 🌱 I’m currently learning about deep learning techniques.
 - 📫 How to reach me: sampadula2646@gmail.com
 
 <!---
